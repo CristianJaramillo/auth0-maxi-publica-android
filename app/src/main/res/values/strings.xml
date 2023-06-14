@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Auth0 WebAuth KT</string>
+
+    <string name="com_auth0_client_id">WxCzpcN6WpD3XppmAD4nUQ2Cq9yv3nFa</string>
+    <string name="com_auth0_domain">maxipublica.us.auth0.com</string>
+    <string name="com_auth0_scheme">demo</string>
+</resources>
